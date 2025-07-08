@@ -1,4 +1,4 @@
-# Ticket Log Analyzer – Jeet Sarkar
+# Ticket Log Analyzer
 
 This Python CLI tool scans mock system support logs and summarizes the number of ERROR, WARNING, and INFO messages. Designed for basic log analysis automation — useful in early-stage diagnostic scripting.
 
