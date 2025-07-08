@@ -1,12 +1,21 @@
-# Ticket Log Analyzer
+# Ticket Log Analyzer – Jeet Sarkar
 
-A Python CLI tool that analyzes system support logs and summarizes ERROR, INFO, and WARNING messages.
+This Python CLI tool scans mock system support logs and summarizes the number of ERROR, WARNING, and INFO messages. Designed for basic log analysis automation — useful in early-stage diagnostic scripting.
 
-## Features
-- Reads `.txt` log files
-- Summarizes key log types
-- Outputs result to console
+## 🔧 Technologies Used
+- Python 3.12
+- Standard library (`collections`, `file I/O`)
+- GitHub for code visibility and version control
 
-## Usage
+## ⚙️ Features
+- Reads and parses `.txt` log files
+- Counts and categorizes log levels
+- Outputs a summary report to the console
 
-python log_analyzer.py
+## 📁 Project Files
+- `log_analyzer.py` – Python script for log parsing
+- `sample_logs.txt` – Example log input
+- `README.md` – Documentation
+
+## 📌 Notes
+Part of my transition into backend scripting. Builds confidence in Python loops, string parsing, and basic automation logic.
