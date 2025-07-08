@@ -8,5 +8,5 @@ A Python CLI tool that analyzes system support logs and summarizes ERROR, INFO, 
 - Outputs result to console
 
 ## Usage
-```bash
+
 python log_analyzer.py
